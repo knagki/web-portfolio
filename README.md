@@ -3,7 +3,7 @@
 
 
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffdbee&height=200&section=header&text=TripStation&fontSize=90&fontColor=dbffe5" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffdbee&height=200&section=header&text=TripStation&fontSize=90&fontColor=7c4fb3" />
 <br>
 <br>
 	<img src="https://img.shields.io/badge/java-007396?style=flat&logo=Java&logoColor=white" />
