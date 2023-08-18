@@ -23,10 +23,10 @@
 	<br>
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-	
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />	
  	<br>
   	<br>
+	
 My Github State
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knagki&layout=compact)](https://github.com/knagki)	
