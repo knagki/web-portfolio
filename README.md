@@ -6,4 +6,5 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />		
 
 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knagki&layout=compact)]
+ 	(https://github.com/knagki/github-readme-stats)
 </div>
