@@ -18,7 +18,7 @@
 <br>
 	🛠 Tools 🛠
 <br><br>
-	<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black" />
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=white" />
 	
