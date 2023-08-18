@@ -32,7 +32,7 @@
 <br>
 <br>
 
-<img src="/img/플랜페이지 전체 수정2.png" width="90%">
+<img src="/img/플랜페이지 전체 수정2.png" width="100%">
 </div>
 
 
