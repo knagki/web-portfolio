@@ -1,4 +1,4 @@
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffdbee&height=190&section=header&text=TripStation&fontSize=90&fontColor=7c4fb3&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffdbee&height=190&section=header&text=TripStation&fontSize=90&fontColor=7c4fb3&animation=fadeIn" />
 <div align="center">
 <br>
 	✨ Platforms & Languages ✨
