@@ -32,8 +32,9 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knagki&layout=compact)](https://github.com/knagki)	
 
-
-
+<br>
+<br>
+![플랜페이지 전체 수정2](https://github.com/knagki/web-portfolio/assets/125181086/d36c25dc-6d61-4c6b-93e0-b906673e4aba)
 </div>
 
 
