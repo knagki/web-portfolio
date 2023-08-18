@@ -7,6 +7,7 @@
 <br>
 	✨ Platforms & Languages ✨
 	<br>
+	<br>	
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -18,7 +19,8 @@
 <br>
 <br>
 	🛠 Tools 🛠
-<br>
+	<br>
+	<br>
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
