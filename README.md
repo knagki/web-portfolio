@@ -33,8 +33,6 @@
 <br>
 
 ![플랜페이지 전체 수정2](https://github.com/knagki/web-portfolio/assets/125181086/d36c25dc-6d61-4c6b-93e0-b906673e4aba)
-
-![플랜페이지 전체 수정](https://github.com/knagki/web-portfolio/assets/125181086/8e1509c8-a0b9-48ef-896c-61460b7ec335)
 </div>
 
 
