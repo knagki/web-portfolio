@@ -60,3 +60,4 @@ URL: https://www.erdcloud.com/d/KNbGrYcK7uniAjFyH
 ![플랜페이지 전체 수정](https://github.com/knagki/web-portfolio/assets/125181086/0484b827-9095-4f9f-9db6-f38f410291dd)
 **2. 플랜 상세 페이지:** 지도 Api를 이용하여 일정별 플랜에 대한 상세 내용을 보여주고, 등록한 여행 장소의 상세 내용과 사용자가 플랜을 이용해서 모집, 패키지 모집, 크루 모집을 하거나 관리 할 수 있는 기능을 구현했습니다.   
 ![플랜 상세보기 1](https://github.com/knagki/web-portfolio/assets/125181086/38fd493a-bc7c-4161-84c7-15bfd95ba5eb)
+**3. 플랜 등록, 수정 페이지:** 지도 Api를 이용하여 일정별 플랜에 대한 상세 내용을 보여주고, 등록한 여행 장소의 상세 내용과 사용자가 플랜을 이용해서 모집, 패키지 모집, 크루 모집을 하거나 관리 할 수 있는 기능을 구현했습니다.   
