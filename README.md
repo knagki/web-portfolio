@@ -62,3 +62,5 @@ URL: https://www.erdcloud.com/d/KNbGrYcK7uniAjFyH
 ![플랜 상세보기 1](https://github.com/knagki/web-portfolio/assets/125181086/38fd493a-bc7c-4161-84c7-15bfd95ba5eb)
 **3. 플랜 작성, 수정 페이지:** 사용자가 여행 플랜을 작성하거나 수정하는 페이지를 구현했습니다. (지도 위치의 경우 지도 api를 이용하여 여행 장소 위치 표시 할 수 있도록 하였습니다.)   
 ![루트 페이지](https://github.com/knagki/web-portfolio/assets/125181086/2d8cd962-8b1b-442d-9ef7-16fbfde44f9c)
+
+이러한 기능들을 통해 사용자가 원활하게 웹사이트를 이용하고, 여행 동행을 찾을 수 있도록 도왔습니다.
