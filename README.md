@@ -49,6 +49,7 @@ TripStation은 사용자가 여행을 계획하고 동행을 찾을 수 있는 �
 URL: https://www.erdcloud.com/d/KNbGrYcK7uniAjFyH
 <br>
 
+![전체 erd화이트](https://github.com/knagki/web-portfolio/assets/125181086/266ba3d7-7f6b-4726-b188-aaac883096d3)
 
 
 <img src="/img/플랜페이지 전체 수정2.png" width="100%">
