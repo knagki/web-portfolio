@@ -36,7 +36,7 @@
 <h1>프로젝트</h1>
 TripStation은 여행 동행을 찾는 사람들을 위한 웹사이트입니다. 사용자는 원하는 여행지와 일정을 입력하면, 같은 여행지를 방문하는 다른 여행자들을 찾아볼 수 있습니다.
 <h2>주요기능</h2>
-TripStation은 사용자가 여행을 계획하고 동행을 찾을 수 있는 다양한 기능을 제공합니다:
+TripStation은 사용자가 여행을 계획하고 동행을 찾을 수 있는 다양한 기능을 제공합니다.
 <br>
 <br>
 
@@ -51,5 +51,9 @@ URL: https://www.erdcloud.com/d/KNbGrYcK7uniAjFyH
 
 ![전체 erd화이트](https://github.com/knagki/web-portfolio/assets/125181086/266ba3d7-7f6b-4726-b188-aaac883096d3)
 
+<h2>프로젝트에서의 역할</h2>
+이 프로젝트에서 저는 아래 기능의 개발을 담당했습니다.
+<br>
+<br>
 
 <img src="/img/플랜페이지 전체 수정2.png" width="100%">
