@@ -57,6 +57,4 @@ URL: https://www.erdcloud.com/d/KNbGrYcK7uniAjFyH
 <br>
 
 **1. 플랜 메인 페이지:** 사용자가 여행 플랜을 작성하고 참조하여 나만의 여행 플랜을 등록하는 페이지를 구현했고 더보기 버튼을 클릭 시 페이징 처리와 검색 기능을 구현하여 사용자들이 쉽게 자신이 원하는 플랜을 찾을 수 있도록 구현하였습니다.   
-<img src="/img/플랜페이지 전체 수정2.png" width="100%">
-
 ![플랜페이지 전체 수정](https://github.com/knagki/web-portfolio/assets/125181086/0484b827-9095-4f9f-9db6-f38f410291dd)
