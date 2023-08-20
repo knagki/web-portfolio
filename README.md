@@ -31,10 +31,11 @@
 
 <br>
 <br>
-<h1>프로젝트</h1>
+
 <hr>
 
-<img src="/img/플랜페이지 전체 수정2.png" width="100%">
+
 </div>
+<h1>프로젝트</h1>
 
-
+<img src="/img/플랜페이지 전체 수정2.png" width="100%">
